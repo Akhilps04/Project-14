@@ -1,6 +1,3 @@
-# Project-14
-EEG SIGNAL VISUALIZER 
-
 # EEG Signal Visualizer – Hackathon Project
 
 ## 📌 Introduction
@@ -56,13 +53,24 @@ Displays selected channel with smooth scrolling.
    ```bash
    python eeg_visualizer.py
 3. Use the GUI to:
-   Select a channel
-   Control playback
-   Export waveform images
+   - Select a channel
+   - Control playback
+   - Export waveform images
 
 ---
 
 ## 🔮 Future Improvements
-Live streaming from real EEG hardware
-Additional color themes
-Multi-patient monitoring   
+- Live streaming from real EEG hardware
+- Additional color themes
+- Multi-patient monitoring   
+
+---
+
+# Acknowledgments
+Thanks to Apple and Berry Pvt for giving this task
+
+---
+
+## 📄 License
+This project is for practical nd demonstration purposes only. Please credit the authors if reused or modified.
+
