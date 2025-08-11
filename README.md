@@ -60,7 +60,9 @@ Displays selected channel with smooth scrolling.
    Control playback
    Export waveform images
 
-🔮 Future Improvements
+---
+
+## 🔮 Future Improvements
 Live streaming from real EEG hardware
 Additional color themes
 Multi-patient monitoring   
