@@ -72,7 +72,7 @@ Thanks to Apple and Berry Pvt for giving this task
 ---
 
 ## 📄 License
-This project is for practical nd demonstration purposes only. Please credit the authors if reused or modified.
+This project is for practical and demonstration purposes only. Please credit the authors if reused or modified.
 
 ---
 
