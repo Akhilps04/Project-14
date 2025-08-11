@@ -74,3 +74,6 @@ Thanks to Apple and Berry Pvt for giving this task
 ## 📄 License
 This project is for practical nd demonstration purposes only. Please credit the authors if reused or modified.
 
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/7405b011-e4d6-447e-8730-f2282281452a" />
+
+
